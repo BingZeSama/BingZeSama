@@ -1,4 +1,4 @@
-- 👋 Hi, I’m BingZeSama
+Hi, I’m BingZe.
 
 <!---
 BingZeSama/BingZeSama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
